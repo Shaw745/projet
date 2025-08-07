@@ -156,7 +156,7 @@ const Widget = () => {
             {/* Card 1 */}
             <div className="bg-white rounded-sm shadow-lg h-full p-5 relative">
               {/* Vertical line for mobile and desktop */}
-              <div className="absolute bg-[#2ACFCF] w-2 h-9 md:h-2 md:w-13 md:top-[50%] top-57 left-1/2 transform -translate-x-1/2 md:left-auto md:-right-20 "></div>
+              <div className="absolute bg-[#2ACFCF] w-2 h-9 md:h-2 md:w-13 md:top-[50%] top-51 left-1/2 transform -translate-x-1/2 md:left-auto md:-right-20 "></div>
 
               <div className="flex items-center justify-center bg-[#393455] p-3 rounded-full mt-4 mb-8 absolute -top-10 md:left-2 left-1/2 transform -translate-x-1/2 md:translate-x-0">
                 <img
