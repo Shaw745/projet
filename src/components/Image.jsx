@@ -7,7 +7,7 @@ const Image = () => {
         <div className="w-full mx-auto max-w-[500px] text-center">
           <h2 className="text-white text-2xl md:text-4xl mb-4">
             Boost your links today
-          </h2>
+          </h2> 
           <button className="bg-[#40b3a6] text-white rounded-3xl w-[150px] h-[50px] cursor-pointer  hover:bg-[#a1e6de]">
             Get Started
           </button>
